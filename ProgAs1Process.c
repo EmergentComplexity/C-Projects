@@ -1,7 +1,5 @@
 // 
 // Creating Processes With fork() and exec()
-// EE4374 Programming Assignment #1
-// Peter Sanchez
 // 2/4/2022
 
 #include <sys/types.h>
